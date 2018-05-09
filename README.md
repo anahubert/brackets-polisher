@@ -26,4 +26,4 @@ Click on the drop-down menu to polish up the text. It will polish document remov
 
 [Brackets text polisher extension screenshot](https://drive.google.com/open?id=1dadxc73PFgONxpmMypSGKcEZfWtWXX1h)
 
-[Brackets text polisher extension Video](https://drive.google.com/open?id=14BCeorpFK4RUTbJ19xrgXTvw0LqlxJGr)
+[Brackets text polisher extension Video](https://vimeo.com/268834192)
