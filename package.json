@@ -1,6 +1,6 @@
 {
 	"name": "brackets-polisher",
-	"title": "Brackets text polisher.",
+	"title": "Brackets text polisher",
 	"version": "1.0.0",
 	"description": "To polish up document removing spaces, tabs, and line breaks. Click on the drop-down menu to polish up the text.",
 	"engines": {
