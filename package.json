@@ -1,12 +1,14 @@
 {
-    "name": "anahubert.brackets-polisher",
-    "title": "To polish up document removing spaces, tabs, and line breaks.",
-    "description": "Click on the drop-down menu to polish up the text.",
-    "homepage": "https://github.com/anahubert/brackets-polisher",
-    "version": "1.0.0",
-    "author": "Aleksandra Hubert <aleksandra.hubert@gmail.com>",
-    "license": "MIT",
-    "engines": {
-        "brackets": ">=0.34.0"
-    }
+	"name": "brackets-polisher",
+	"title": "Brackets text polisher.",
+	"version": "1.0.0",
+	"description": "To polish up document removing spaces, tabs, and line breaks. Click on the drop-down menu to polish up the text.",
+	"engines": {
+		"brackets": ">=0.34.0"
+	},
+	"homepage": "https://github.com/anahubert/brackets-polisher",
+	"bugs": "https://github.com/anahubert/brackets-polisher/issues",
+	"repository": "anahubert/brackets-polisher",
+	"author": "Aleksandra Hubert <aleksandra.hubert@gmail.com> (https://github.com/anahubert)",
+	"license": "MIT"
 }
